@@ -14,7 +14,7 @@ $ yarn
 $ yarn global add gatsby-cli
 ```
 
-Next, add your Airtable API key and base ID to `gatsby-config.js`.
+Next, add your Airtable API key and base ID to `gatsby-config.js`. You can find this information via our [interactive API documentation](https://airtable.com/api).
 
 If you're following along with the blog post, you don't need to change anything else. Otherwise, you may have to change the table/view name, GraphQL queries, and template variables to match your own base schema.
 
